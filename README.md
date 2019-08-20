@@ -1,2 +1,3 @@
 # hellow-world
-exploring github
+ 
+ I'm working to be an expert in web development 
